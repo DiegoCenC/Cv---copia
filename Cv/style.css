@@ -1,0 +1,158 @@
+html{
+  background-color: black;
+}
+
+body{
+  width: 595px;
+  height: 842px;
+  background-color:white;
+  font-family: 'Times New Roman', Times, serif;
+}
+.principio{
+  width: 595px;
+  height: 116px;
+  border-width: 0px;
+  border-top: 0px;
+  border-bottom: 1px;
+  border-right: 1px;
+  border-color: black;
+  border-style: solid;
+  background-color: #3D8B8B;
+  position: relative;
+
+}
+.name{
+  width: 361px;
+  height: 115px;
+  background-color: #3D8B8B;
+  float: left;
+  display: flex;
+  align-items: end;
+  justify-content: end;
+}
+.Die{
+  margin-right: 66px;
+  margin-bottom: 16px;
+  font-size: 20px;
+}
+ .contac{
+  left: 50px;
+  margin-top: 16px;
+  font-size: 14px;
+  float: left;
+ }
+ .corr{
+  right: 32px;
+  top: 42px;
+  font-size: 12px;
+  float: left;
+ }
+ .tel{
+  margin-right: 125px;
+  top: 64px;
+  font-size: 12px;
+  float: left;
+ }
+ .dir{
+  left: 106px;
+  margin-bottom: 16px;
+  font-size: 12px;
+  float: left;
+ }
+ 
+ img{
+  left: 32px;
+  top: 46px;
+  width: 122px;
+  height: 140px;
+  border-radius: 10px;
+  border: 1px;
+  border-color: black;
+  border-style: solid;
+  position: absolute;
+ }
+ aside{
+  width: 267px;
+  height: 726;
+  float: left;
+ }
+ .par1{
+  width: 267px;
+  height: 66;
+  margin-top: 112px;
+ }
+ h1{
+  font-size: 14px;
+  padding-left: 39px;
+  padding-bottom: 0px;
+ }
+ h2{
+  font-size: 12px;
+  padding-left: 39px;
+  padding-top: 12px;
+ }
+ .list1{
+  padding-left: 53px;
+  padding-top: 8px;
+  font-size: 12px;
+ }
+ .par2{
+  width: 267px;
+  height: 175px;
+  margin-top: 31px;
+ }
+
+main{
+  width: 328px;
+  height: 726px;
+  float: right;
+  background-color: #ECECEC;
+  border: 1px;
+  border-color: black;
+  border-style: solid;
+  border-top: 0;
+}
+.part3{
+  margin-top: 32px;
+  margin-left: 32px;
+}
+.apart{
+  padding: 0px;
+}
+.uni{
+  font-size: 12px;
+  margin: 0px;
+}
+.neg{
+  font-size: 12px;
+  padding: 8px,0,0,0;
+  margin: 0px;
+}
+.men{
+  font-size: 11px;
+  margin: 0px;
+  padding: 8px,0,0,0;
+}
+.apart2{
+  margin-top: 32px;
+  padding: 0px;
+}
+.tit{
+  margin: 0px;
+  font-size: 14px;
+}
+.negi{
+  font-size: 12px;
+  padding: 10px,0,0,0;
+  margin: 0px;
+}
+.me{
+  font-size: 12px;
+  padding-left: 20px;
+  margin: 0px;
+}
+.titl{
+  margin: 0px;
+  font-size: 14px;
+  padding-top: 10px;
+}
